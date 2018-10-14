@@ -1,4 +1,4 @@
-ppackage me.Petrosaurus.BlockBreak;
+package me.Petrosaurus.BlockBreak;
 
 import org.bukkit.Bukkit;
 import org.bukkit.ChatColor;
